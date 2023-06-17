@@ -1,0 +1,12 @@
+[package]
+name = "pokemon-rs"
+version = "0.1.0"
+authors = ["rosen1000 <rosen.ruseff@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+console = "0.14.1"
+fastrand = "1.4.1"
+term-inquiry = "0.1.1"
